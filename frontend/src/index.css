@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: #DDD;
+}
+
+header {
+  height: 100px;
+  background-color: #222;
+  text-align: center;
+  line-height: 100px;
+  font-size: 20px;
+}
+
+a:link, a:visited {
+  color: white;
+  margin: 10px;
+}
+
+a:active {
+  color:green;
+}
+
+.home {
+  text-align: center;
+  font-size: 28px;
+  margin: 10px;
+}
