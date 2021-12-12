@@ -1,6 +1,5 @@
-import os
-import tempfile
 import datetime
+import json
 from flask import Flask, request, redirect
 from flask_cors import CORS
 from flask_sqlalchemy import SQLAlchemy
@@ -38,8 +37,8 @@ def sorting():
     return {'array': ' '.join(array)}
 
 
-@app.route('/mycomponent', methods=['POST'])
-def mycomponent():
+@app.route('/db', methods=['POST'])
+def send_db():
     name = request.form['name']
     phone = request.form['phone']
     date = request.form['date']
@@ -51,9 +50,24 @@ def mycomponent():
     try:
         db.session.add(database)
         db.session.commit()
-        return redirect('http://localhost:3000/')
+        return redirect('http://localhost:3000/db')
     except:
         return "My database error"
+
+
+@app.route('/db/print')
+def get_db():
+    result, i = {}, 0
+    for record in Database.query.all():
+        result[i] = {
+            'id': record.id,
+            'name': record.name,
+            'phone': record.phone,
+            'date': record.date
+        }
+        i += 1
+
+    return result
 
 
 
