@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyPythonProject/static/css/main.6a4e5fea.chunk.css",
+    "main.js": "/MyPythonProject/static/js/main.38d4c84e.chunk.js",
+    "main.js.map": "/MyPythonProject/static/js/main.38d4c84e.chunk.js.map",
+    "runtime-main.js": "/MyPythonProject/static/js/runtime-main.98b4d71f.js",
+    "runtime-main.js.map": "/MyPythonProject/static/js/runtime-main.98b4d71f.js.map",
+    "static/js/2.510b6f58.chunk.js": "/MyPythonProject/static/js/2.510b6f58.chunk.js",
+    "static/js/2.510b6f58.chunk.js.map": "/MyPythonProject/static/js/2.510b6f58.chunk.js.map",
+    "index.html": "/MyPythonProject/index.html",
+    "precache-manifest.72c7506ca5497ab34f20822aad3afcd2.js": "/MyPythonProject/precache-manifest.72c7506ca5497ab34f20822aad3afcd2.js",
+    "service-worker.js": "/MyPythonProject/service-worker.js",
+    "static/css/main.6a4e5fea.chunk.css.map": "/MyPythonProject/static/css/main.6a4e5fea.chunk.css.map",
+    "static/js/2.510b6f58.chunk.js.LICENSE.txt": "/MyPythonProject/static/js/2.510b6f58.chunk.js.LICENSE.txt",
+    "static/media/paper.png": "/MyPythonProject/static/media/paper.0634fc13.png",
+    "static/media/scissors.png": "/MyPythonProject/static/media/scissors.d9ab5b5e.png",
+    "static/media/stone.png": "/MyPythonProject/static/media/stone.82874705.png",
+    "static/media/vs.png": "/MyPythonProject/static/media/vs.081232d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98b4d71f.js",
+    "static/js/2.510b6f58.chunk.js",
+    "static/css/main.6a4e5fea.chunk.css",
+    "static/js/main.38d4c84e.chunk.js"
+  ]
+}
