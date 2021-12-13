@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fc7482c06b1a34f990f4120b4a51543",
+    "revision": "e7cd58cf77505bf7ca55efe5d8840108",
     "url": "/MyPythonProject/index.html"
   },
   {
-    "revision": "b955bd76501acaeca3ad",
-    "url": "/MyPythonProject/static/css/main.6a4e5fea.chunk.css"
+    "revision": "cafcede37be18f9f8177",
+    "url": "/MyPythonProject/static/css/main.4d5c9cb7.chunk.css"
   },
   {
-    "revision": "02273179fd0a4ce8ad6b",
-    "url": "/MyPythonProject/static/js/2.510b6f58.chunk.js"
+    "revision": "370da3e9d7fa4877bbe3",
+    "url": "/MyPythonProject/static/js/2.32ec3fcf.chunk.js"
   },
   {
     "revision": "4aa839f25784e6ec59906b932c7e8c9f",
-    "url": "/MyPythonProject/static/js/2.510b6f58.chunk.js.LICENSE.txt"
+    "url": "/MyPythonProject/static/js/2.32ec3fcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b955bd76501acaeca3ad",
-    "url": "/MyPythonProject/static/js/main.38d4c84e.chunk.js"
+    "revision": "cafcede37be18f9f8177",
+    "url": "/MyPythonProject/static/js/main.fb248f92.chunk.js"
   },
   {
     "revision": "fc37c8662b2f5b697c91",
     "url": "/MyPythonProject/static/js/runtime-main.98b4d71f.js"
+  },
+  {
+    "revision": "bdb618866e11a2dbdc369318ff1ed95e",
+    "url": "/MyPythonProject/static/media/cat_cry.bdb61886.jpg"
+  },
+  {
+    "revision": "affb7e999820738c7ec0795cc292433a",
+    "url": "/MyPythonProject/static/media/cat_like.affb7e99.jpg"
+  },
+  {
+    "revision": "bfca78228c8003c9769edf4e5e97a862",
+    "url": "/MyPythonProject/static/media/cat_notfound.bfca7822.jpg"
   },
   {
     "revision": "0634fc1378e12761480b7669682a0977",

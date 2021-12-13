@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/MyPythonProject/static/css/main.6a4e5fea.chunk.css",
-    "main.js": "/MyPythonProject/static/js/main.38d4c84e.chunk.js",
-    "main.js.map": "/MyPythonProject/static/js/main.38d4c84e.chunk.js.map",
+    "main.css": "/MyPythonProject/static/css/main.4d5c9cb7.chunk.css",
+    "main.js": "/MyPythonProject/static/js/main.fb248f92.chunk.js",
+    "main.js.map": "/MyPythonProject/static/js/main.fb248f92.chunk.js.map",
     "runtime-main.js": "/MyPythonProject/static/js/runtime-main.98b4d71f.js",
     "runtime-main.js.map": "/MyPythonProject/static/js/runtime-main.98b4d71f.js.map",
-    "static/js/2.510b6f58.chunk.js": "/MyPythonProject/static/js/2.510b6f58.chunk.js",
-    "static/js/2.510b6f58.chunk.js.map": "/MyPythonProject/static/js/2.510b6f58.chunk.js.map",
+    "static/js/2.32ec3fcf.chunk.js": "/MyPythonProject/static/js/2.32ec3fcf.chunk.js",
+    "static/js/2.32ec3fcf.chunk.js.map": "/MyPythonProject/static/js/2.32ec3fcf.chunk.js.map",
     "index.html": "/MyPythonProject/index.html",
-    "precache-manifest.72c7506ca5497ab34f20822aad3afcd2.js": "/MyPythonProject/precache-manifest.72c7506ca5497ab34f20822aad3afcd2.js",
+    "precache-manifest.3afcd382cdcb88516d1b610e6c6fefe5.js": "/MyPythonProject/precache-manifest.3afcd382cdcb88516d1b610e6c6fefe5.js",
     "service-worker.js": "/MyPythonProject/service-worker.js",
-    "static/css/main.6a4e5fea.chunk.css.map": "/MyPythonProject/static/css/main.6a4e5fea.chunk.css.map",
-    "static/js/2.510b6f58.chunk.js.LICENSE.txt": "/MyPythonProject/static/js/2.510b6f58.chunk.js.LICENSE.txt",
+    "static/css/main.4d5c9cb7.chunk.css.map": "/MyPythonProject/static/css/main.4d5c9cb7.chunk.css.map",
+    "static/js/2.32ec3fcf.chunk.js.LICENSE.txt": "/MyPythonProject/static/js/2.32ec3fcf.chunk.js.LICENSE.txt",
+    "static/media/cat_cry.jpg": "/MyPythonProject/static/media/cat_cry.bdb61886.jpg",
+    "static/media/cat_like.jpg": "/MyPythonProject/static/media/cat_like.affb7e99.jpg",
+    "static/media/cat_notfound.jpg": "/MyPythonProject/static/media/cat_notfound.bfca7822.jpg",
     "static/media/paper.png": "/MyPythonProject/static/media/paper.0634fc13.png",
     "static/media/scissors.png": "/MyPythonProject/static/media/scissors.d9ab5b5e.png",
     "static/media/stone.png": "/MyPythonProject/static/media/stone.82874705.png",
@@ -19,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.98b4d71f.js",
-    "static/js/2.510b6f58.chunk.js",
-    "static/css/main.6a4e5fea.chunk.css",
-    "static/js/main.38d4c84e.chunk.js"
+    "static/js/2.32ec3fcf.chunk.js",
+    "static/css/main.4d5c9cb7.chunk.css",
+    "static/js/main.fb248f92.chunk.js"
   ]
 }
